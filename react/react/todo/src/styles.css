@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    color: #666;
+  }
+  
+  input {
+    border-radius: 8px;
+    border: none;
+    padding: 6px 16px;
+  }
+  
+  button {
+    border-radius: 8px;
+    border: none;
+    padding: 4px 16px;
+    margin: 0px 2px;
+  }
+  
+  button:hover {
+    background-color: #79a8a9;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .title {
+    text-align: center;
+    margin-top: 0;
+    font-weight: bold;
+  }
+  
+  .list-row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .todo-item {
+    margin: 6px;
+  }
+  
